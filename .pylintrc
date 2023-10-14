@@ -1,0 +1,14 @@
+[pylint]
+disable=
+    line-too-long,
+    invalid-name,
+    missing-module-docstring,
+    missing-function-docstring,
+    missing-class-docstring,
+    wrong-import-order,
+    no-else-return,
+    no-else-raise,
+    broad-except,
+    redefined-outer-name,
+    too-few-public-methods,
+    duplicate-code
